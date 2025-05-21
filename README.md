@@ -18,7 +18,7 @@ This project documents the process of creating and configuring cloud storage usi
    - Region: `Asia Pacific (Mumbai)` *(or your chosen region)*
 
 2. **Uploaded example files**
-   - Files: `sample.txt`, `demo.png`, etc.
+   - Files: `Travel2.html`, `Codtech Offer Letter.pdf`, etc.
 
 3. **Configured access permissions**
    - Enabled public access to selected files
@@ -29,10 +29,11 @@ This project documents the process of creating and configuring cloud storage usi
 ## 📁 Files and Screenshots
 
 - `Screenshots/`
-  - `Picture1.png` – Bucket creation
-  - `Picture2.png` – File upload
-  - `Picture3.png` – Permission settings
-  - `Picture4.png` – Public access test
+  - `Picture1.png` – uploading offer letter
+  - `Picture2.png` – Uploading Travel2.html in a directory
+  - `Picture3.png` – Whole bucket Screenshot
+  - `Picture4.png` – Unblocking Public access
+  - `Picture5.png` – Successfully editing the access
 
 ---
 
@@ -40,7 +41,6 @@ This project documents the process of creating and configuring cloud storage usi
 
 > Accessible at:  
 > `https://ap-south-1.console.aws.amazon.com/s3/buckets/codtech-task1-bucket?region=ap-south-1&bucketType=general&tab=objects`  
-*(replace with your actual bucket URL)*
 
 ---
 
